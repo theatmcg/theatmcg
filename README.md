@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theatmcg
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning Unity, c#, and c++.
+- 🌱 I’m currently learning unity, c#, and c++.
 - 💞️ I’m looking to collaborate on making a game in Unity!
 - 📫 How to reach me Discord :: atmcg#8884
 
