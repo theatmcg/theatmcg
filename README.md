@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theatmcg
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning unity, c#, and c++.
-- 💞️ I’m looking to collaborate on making a game in Unity!
+- 👀 I’m interested in making games and windows apps
+- 🌱 I’m currently learning unity script, c#, and c++.
+- 💞️ I want to make solo projects
 - 📫 How to reach me Discord :: atmcg#8884
 
 <!---
