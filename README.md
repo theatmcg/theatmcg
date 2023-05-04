@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theatmcg
 - 👀 I’m interested in making games and windows apps
-- 🌱 I’m currently learning unity script, c#, and c++.
+- 🌱 I’m currently learning React, Javascript, PHP, and Lua
 - 💞️ I want to make solo projects
 - 📫 How to reach me Discord :: liquid.#8884
 
