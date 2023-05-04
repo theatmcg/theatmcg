@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games and windows apps
 - 🌱 I’m currently learning unity script, c#, and c++.
 - 💞️ I want to make solo projects
-- 📫 How to reach me Discord :: atmcg#8884
+- 📫 How to reach me Discord :: liquid.#8884
 
 <!---
 theatmcg/theatmcg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
