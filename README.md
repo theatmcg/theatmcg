@@ -26,19 +26,19 @@
 ### **Backend**
 
 ```text
-NestJS • TypeScript • PHP • MySQL • TypeORM/Prisma • AWS (S3, ECS, Lambda)
+NestJS • TypeScript • PHP • MySQL • TypeORM/Prisma • AWS (S3, ECS, Lambda) • Bash • Blender (Python)
 ```
 
 ### **Frontend**
 
 ```text
-Next.js • React • TailwindCSS • DaisyUI
+Next.js • React • TailwindCSS • DaisyUI • Bootstrap
 ```
 
 ### **Tools**
 
 ```text
-Docker • Git • Blender (Python) • Bash • Cron Jobs
+Docker • Git • Cron Jobs  • VS Code • JetBrains Tools • SSH Clients
 ```
 
 ---
