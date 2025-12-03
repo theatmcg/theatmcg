@@ -2,7 +2,7 @@
 
 # ⚡ Aiden
 
-### *Full-Stack Developer — LAMP • Docker • MySQL • TypeScript • Real-Estate Marketing*
+### *Full-Stack Developer — LAMP • Docker • MySQL • TypeScript
 
 <br/>
 
